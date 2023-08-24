@@ -10,7 +10,7 @@ Note that you will need to understand how the different values of an ASBR `messa
 If you are new to ASBR modding and want to learn more, join the [JoJo's Bizarre Modding Community on Discord](https://discord.gg/asbr-eoh-modding-community-608029171800735744) and find me `@kojobailey`.
 
 ## Installation
-1. Download the latest release from the [Releases](https://github.com/KojoBailey/asbr_messageInfo_sheet2json/releases/latest) page, or download it from Nexus Mods (coming soon).
+1. Download the latest release from the [Releases](https://github.com/KojoBailey/asbr_messageInfo_sheet2json/releases/latest) page, or download it from [Nexus Mods](https://www.nexusmods.com/jojosbizarreadventureallstarbattler/mods/849).
 2. Ensure that you have both `mI to JSON.exe` and `settings.cfg`.
 3. Drag&Drop the file you want to convert! Ensure that the formatting is correct by following the following guide:
 
