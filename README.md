@@ -16,7 +16,7 @@ If you are new to ASBR modding and want to learn more, join the [JoJo's Bizarre 
 
 ## Usage Guide
 ### Formatting the spreadsheet correctly
-It is important that you spreadsheet has the following columns, in this order:
+It is important that your spreadsheet has the following columns, in this order:
 1. `msg_id_crc32` - STRING - The endian-swapped CRC-32/BZIP2 ID of the string's corresponding audio ID (e.g., `1dio01_btlst_00_3dio01` = `32A8575F`).
 2. `char_id` - INTEGER - The character's ID corresponding int ID (e.g., Dio Brando = `4`).
 3. `cue_id` - INTEGER - The cue number for the string's attached audio ID, found in ACBs/AWBs.
