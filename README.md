@@ -21,6 +21,7 @@ It is important that you spreadsheet has the following columns, in this order:
 2. `char_id` - INTEGER - The character's ID corresponding int ID (e.g., Dio Brando = `4`).
 3. `cue_id` - INTEGER - The cue number for the string's attached audio ID, found in ACBs/AWBs.
 4. `string` - STRING - The message itself. Ensure that the formatting is good for JSON (e.g., use `\"` instead of just `"` to avoid JSON errors).
+
 Note that you should **not** have header titles.
 
 Below is an image example:
